@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\sumin\Desktop\12211694 조수민 퀴즈 1\12211694 조수민 퀴즈 1\소스.cpp(21,50): error C2664: 'size_t fwrite(const void *,size_t,size_t,FILE *)': 인수 4을(를) 'std::ifstream'에서 'FILE *'(으)로 변환할 수 없습니다.
+C:\Users\sumin\Desktop\12211694 조수민 퀴즈 1\12211694 조수민 퀴즈 1\소스.cpp(21,48): message : 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(292,29): message : 'fwrite' 선언을 참조하십시오.
